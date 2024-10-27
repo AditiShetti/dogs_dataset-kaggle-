@@ -2,6 +2,7 @@
 Hii everyone, this is a data analysis project that I have done on dogs.
 I got the csv file from Kaggle.
 
+#**Dataset Overview**:
 There are 5 columns and 3000 rows in this dataset.
 
 🐕 **Breed**: Type of dog breed (e.g., Labrador Retriever, Beagle)  
@@ -9,6 +10,11 @@ There are 5 columns and 3000 rows in this dataset.
 ⚖️ **Weight** (kg): Weight of the dog in kilograms, from 5 kg to 60 kg  
 🎨 **Color**: Dog’s color (e.g., Black, White, Brown)  
 ♂️♀️ **Gender**: Dog’s gender (Male or Female)  
+
+
+#**Tools Used**: Python libraries
+Pandas: For data manipulation and analysis.
+Matplotlib: For creating static and visualizations.
 
 For any questions or feedback, feel free to reach out at Aditishetti9060@gmail.com😊
 
