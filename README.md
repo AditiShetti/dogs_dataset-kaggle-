@@ -11,7 +11,7 @@ There are 5 columns and 3000 rows in this dataset.
 🎨 **Color**: Dog’s color (e.g., Black, White, Brown)  
 ♂️♀️ **Gender**: Dog’s gender (Male or Female)  
 
-![image](https://github.com/user-attachments/assets/1aaa8a5e-0dc7-4115-aa28-b013ceaf29ec)
+![Screenshot 2024-11-19 144206](https://github.com/user-attachments/assets/d1c0d718-d0a7-407a-a8c4-3fafd44dfe62)
 
 
 #**Tools Used**: Python libraries
